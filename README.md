@@ -20,8 +20,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🔗 [Python Risk & Finance Notebooks](https://github.com/Jinestic/finance-python) *(learning repo)*  
-- 🔗 [Stress Testing Framework (Python)](https://github.com/Jinestic/stress-testing) *(coming soon)*  
+- 🔗 [Python Risk & Finance Notebooks](https://github.com/jineshpatel30/finance-python) *(learning repo)*  
+- 🔗 [Stress Testing Framework (Python)](https://github.com/jineshpatel30/stress-testing) *(coming soon)*  
 
 ---
 
